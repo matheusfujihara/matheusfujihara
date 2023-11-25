@@ -28,22 +28,22 @@ Apaixonado por tecnologia, cada passo da minha trajetória estou sempre ajudando
 
 ## My career timeline
 
-Junior Software Engineer
+<strong>Junior Software Engineer</strong>
 <br/>
 *dec/2019* - *aug/2020* - 
 <a href="https://docato.com.br/">Docato</a>
 
-Software Engineer
+<b>Software Engineer</b>
 <br/>
 *sep/2020* - *fev/2021* -
 <a href="https://cadmus.com.br/">Cadmus</a>
 
-Senior Software Engineer
+<b>Senior Software Engineer</b>
 <br/>
 *mar/2021* - *mar/2022* -
 <a href="https://premmiar.com.br/">Premmiar</a>
 
-Tech Lead
+<b>Tech Lead</b>
 <br/>
 *mar/2022* - **current** -
 <a href="https://www.semparar.com.br/seguros">Sem Parar - Seguros</a>
