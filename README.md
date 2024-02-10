@@ -45,6 +45,10 @@ Apaixonado por tecnologia, cada passo da minha trajetória estou sempre ajudando
 
 <b>Tech Lead</b>
 <br/>
-*mar/2022* - **current** -
+*apri/2022* - *dec/2023* -
 <a href="https://www.semparar.com.br/seguros">Sem Parar - Seguros</a>
 
+<b>Senior Software Engineer</b>
+<br/>
+*jan/2024* - **current** -
+<a href="https://www.raizen.com.br/">Raizen</a>
